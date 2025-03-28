@@ -1,0 +1,2 @@
+echo "Flask==2.2.5" > requirements.txt
+echo "requests" >> requirements.txt
