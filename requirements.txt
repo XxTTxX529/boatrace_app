@@ -1,2 +1,4 @@
+cd /Users/toshi/get_boatrace/boatrace_app
+
 echo "Flask==2.2.5" > requirements.txt
 echo "requests" >> requirements.txt
